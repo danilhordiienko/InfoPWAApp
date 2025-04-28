@@ -27,3 +27,4 @@ export class HomePage {
     this.deviceInfo = `Platform: ${navigator.platform}, UserAgent: ${navigator.userAgent}`;
   }
 }
+// Minor update for device info
